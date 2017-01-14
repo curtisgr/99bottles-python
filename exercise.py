@@ -1,0 +1,2 @@
+class Bottles(object):
+    pass
