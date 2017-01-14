@@ -11,7 +11,7 @@ git clone https://github.com/curtisgr/99bottles-python
 
 cd 99bottles-python
 
-python test.py
+python tests.py
 ```
 
 * The unsolved exercise is master.
